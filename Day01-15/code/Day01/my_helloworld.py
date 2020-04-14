@@ -7,7 +7,3 @@
 # @Site    : 
 # @File    : my_helloworld.py
 # @Software: PyCharm
-print('hello world!')
-print('hello', 'world', sep=':', end=' 666')
-# \n可以让本行接上一行
-print('hello', 'world', end='!\n')

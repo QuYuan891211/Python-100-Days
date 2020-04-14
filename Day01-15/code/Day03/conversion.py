@@ -5,6 +5,7 @@ Version: 0.1
 Author: 骆昊
 Date: 2018-02-28
 """
+from builtins import float, input
 
 value = float(input('请输入长度: '))
 unit = input('请输入单位: ')

@@ -10,6 +10,7 @@ Version: 0.1
 Author: 骆昊
 Date: 2018-02-28
 """
+from builtins import float, input
 
 score = float(input('请输入成绩: '))
 if score >= 90:
